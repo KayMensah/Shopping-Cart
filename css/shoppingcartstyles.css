@@ -1,0 +1,59 @@
+.top {
+	margin-top: 1rem;
+}
+.nav-height {
+	height: 4.5rem;
+	margin-bottom: 3rem;
+}
+.size {
+	margin-left: 100px;
+
+}
+.badge-dark {
+	width: 5.5rem;
+	margin-left: 10rem;
+}
+.products {
+	margin-left: 10rem;
+
+}
+.order {
+	margin-left: 40rem;
+	width: 15rem;
+
+}
+.select {
+	width: 10rem;
+}
+.border {
+	border-radius: 80px;
+	font-weight: bold;
+	width: 4rem;
+	height:4rem;
+	margin-top: 1rem;
+}
+.line {
+	width: 3.5rem;
+	border-color: gold;
+	height: 0.1rem;
+	background-color: gold;
+}
+.card-text {
+	font-size: 2rem;
+}
+.btn {
+	margin-bottom:1rem;
+	margin-right: 1.5rem;
+	margin-left: 1rem;
+	background-color: black;
+	border: none;
+}
+.row-two {
+	margin-top: 2rem;
+}
+.row-three {
+	margin-top: 2rem;
+}
+.row-four {
+	margin-top: 2rem;
+}
