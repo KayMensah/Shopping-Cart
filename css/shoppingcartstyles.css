@@ -57,3 +57,11 @@
 .row-four {
 	margin-top: 2rem;
 }
+footer{
+	/*position: absolute;*/
+	margin-top: 1.5rem;
+	bottom: 0;
+	background-color: lightgrey;
+	width: 100%
+	padding: 1rem;
+}
